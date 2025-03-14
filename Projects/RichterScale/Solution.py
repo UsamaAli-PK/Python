@@ -1,4 +1,3 @@
-#Print Values
 print(
     """+-----------+-------------------------+--------------------------+
 | Richter   | Energy (Joules)         | TNT Equivalent (tons)    |
